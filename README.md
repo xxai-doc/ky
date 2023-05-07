@@ -7,3 +7,4 @@
 * [алдыңкы код](https://github.com/xxai-art/web)
 * [Бүтүндөй сайт үчүн тил пакеттери](https://github.com/xxai-art/web/tree/main/i18n)
 * [Кирүү модулдары үчүн тил пакеттери](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Вебсайттын көп тилдүү документтери](https://github.com/xxai-doc)
