@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , coffeescript синтаксисинин негизинде кээ бир функцияларды кошуңуз, караңыз [coffee_plus](./coffee_plus.md) .
 
-* өзгөрмө жарыялоо
+## өзгөрмө жарыялоо
 
 ```
 + var1, var2
 ```
 
-* декларация белгиси
+## декларация белгиси
 
 `:$` [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) менен колдонуу үчүн.
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* тез импорттоо
+## тез импорттоо
 
 ```
 > zx/globals:
@@ -101,7 +101,7 @@ $ : (func = function() {
   @w5/xxhash3-wasm
 ```
 
-чейин түзүшөт
+үчүн түзүлөт
 
 ```
 import 'zx/globals';
